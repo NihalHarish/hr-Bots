@@ -1,4 +1,3 @@
-#
 def nextMove(n,r,c,grid):
     princessPos = ()
     for i in range(n):
